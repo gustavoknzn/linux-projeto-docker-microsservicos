@@ -66,7 +66,7 @@ Montar o diretório que foi previamente exportado no servidor principal
 
 ## Configurando proxy com o NGINX
 
-As configurações serão importadas pelo __dockerfile__
+As configurações deverão ser setadas de acordo com o ip de cada EC2 e serão importadas pelo __dockerfile__
 
 Criar uma nova imagem para utilizar o proxy
 
